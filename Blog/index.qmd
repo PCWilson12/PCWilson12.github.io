@@ -1,0 +1,18 @@
+---
+title: "Philip Wilson"
+image:  Aron_GP.jpg
+about:
+    template: jolla
+    links:
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/philip-wilson-9b0946196/
+
+      - icon: github
+        text: Github
+        href: https://github.com/PCWilson12
+
+
+---
+
+
